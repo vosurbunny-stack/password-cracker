@@ -1,0 +1,5 @@
+{
+  "name": "Password Hash Analyzer",
+  "description": "A web application to analyze SHA-256 password hashes against a dictionary and generate new SHA-256 hashes from passwords.",
+  "requestFramePermissions": []
+}
